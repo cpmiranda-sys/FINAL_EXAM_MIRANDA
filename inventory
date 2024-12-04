@@ -1,0 +1,5 @@
+[Ubuntu]
+server1
+[Centos]
+192.168.56.13 ansible_user=vboxuser
+
